@@ -1,0 +1,26 @@
+[
+  {
+    "key":1,
+    "data":"Home"
+  },
+  {
+    "key":2,
+    "data":"Profil"
+  },
+  {
+    "key":3,
+    "data":"Pendidikan"
+  },
+  {
+    "key":4,
+    "data":"Keahlian"
+  },
+  {
+    "key":5,
+    "data":"Pengalaman"
+  },
+  {
+    "key":6,
+    "data":"Organisasi"
+  }
+]
